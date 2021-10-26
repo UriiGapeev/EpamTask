@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast-menu>
+    <food typeinfo="Oven" id="1">
+        <name>Belgian Waffles</name>
+        <price>$5.95</price>
+        <description>
+            Oven1
+        </description>
+        <calories>650</calories>
+    </food>
+    <food typeinfo="Oven" id="2">
+        <name>Strawberry Belgian Waffles</name>
+        <price>$7.95</price>
+        <description>
+            Oven2
+        </description>
+        <calories>900</calories>
+    </food>
+    <food typeinfo="Laptop" id="1">
+        <name>Belgian Waffles</name>
+        <price>$5.95</price>
+        <description>Laptop1</description>
+        <calories>650</calories>
+    </food>
+    <food typeinfo="Laptop" id="2">
+        <name>Strawberry Belgian Waffles</name>
+        <price>$7.95</price>
+        <description>
+            Laptop2
+        </description>
+        <calories>900</calories>
+    </food>
+</breakfast-menu>
